@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    color: #ffffff;
+    background: #3742fa;
+    padding: 16px;
+}
+
+html{
+    font-family: Verdana;
+    background: #1e272e;
+}
+
+p.uno{
+    color:  #ffffff;
+    font-size: 20px;
+}
+p.dos{
+    color: #05c46b;
+}
+
+a{
+    font-size: 2em;
+    background: #ff7f50;
+}

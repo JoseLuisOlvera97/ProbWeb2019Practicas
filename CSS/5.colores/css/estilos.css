@@ -1,0 +1,31 @@
+h1{
+    font-size: 40px;
+    /*palabra clave de los colores 17*/
+    background: cornflowerblue;
+    color: darkslateblue;
+    text-align: center;
+}
+
+h2{
+    font-size: 40px;
+    /*color hexadecimal*/
+    background: cornflowerblue;
+    color: crimson;
+    text-align: center;
+}
+
+h3{
+    font-size: 40px;
+    /*RGB*/
+    background: cornflowerblue;
+    color: crimson;
+    text-align: center;
+}
+
+h4{
+    font-size: 40px;
+    /*RGB A*/
+    background: cornflowerblue;
+    color: crimson;
+    text-align: center;
+}

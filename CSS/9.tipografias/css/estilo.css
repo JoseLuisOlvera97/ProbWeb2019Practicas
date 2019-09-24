@@ -1,0 +1,22 @@
+h1{
+    font-weight: normal;
+    text-align: center;
+    background: #222f3e;
+    color: honeydew;
+}
+
+body{
+    font-family: consolas , verdana;
+}
+
+.uno, .dos, .tres{
+    font-size: 20px;
+    text-align: justify;
+    line-height: 25px;
+    /* text-decoration: line-through; */
+    text-transform: lowercase;
+    /* letter-spacing: 20px;
+    word-spacing: 5px; */
+    text-shadow: 5px 5px 5px #000;
+}
+

@@ -1,0 +1,12 @@
+body{
+    /* background: #2f3542; */
+    /* background: url('../imagenes/fondoclaro.png'); */
+    /* background-repeat: no-repeat;
+    background-position: center 50px; */
+    /* background-repeat: repeat-y; */
+    background: rgb(21, 153, 87,.2);  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, rgb(21, 87, 153,.2), rgb(21, 153, 87,.2)), url('../imagenes/fondoclaro.png');  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, rgb(21, 87, 153,.2), rgb(21, 153, 87,.2)), url('../imagenes/fondoclaro.png'); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+
+}
